@@ -1,3 +1,3 @@
 # hitprint-demo
 
-![My image](readmi/login.png)
+![My image](blob/main/readme/login.png)
