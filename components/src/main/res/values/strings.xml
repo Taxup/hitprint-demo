@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention">Attention!</string>
+
+
+    <string name="login">Log in</string>
+    <string name="otp">Enter the code password</string>
+    <string name="map">Map</string>
+    <string name="history">History</string>
+    <string name="services">Services</string>
+    <string name="upload_docs">Uploading files</string>
+    <string name="packages">Packages</string>
+    <string name="waiting">Waiting</string>
+    <string name="payment">Payment</string>
+
+    <string name="welcome">Welcome to HitPrint!</string>
+    <string name="enter_phone_number">Please enter your phone number to continue</string>
+    <string name="enter_otp">Great! Please enter the pin-code from your messages to continue</string>
+
+    <string name="select_package">Select package</string>
+
+    <string name="shared_select_something">Select %s</string>
+    <string name="shared_select">Select</string>
+    <string name="shared_search">Search</string>
+    <string name="shared_next">Next</string>
+
+    <string name="work_time">Work time</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="delivery_address">Delivery address</string>
+    <string name="city">City</string>
+
+    <string name="upload_files">Upload Files</string>
+
+    <string name="application_create_success_title">The application has been successfully created!</string>
+    <string name="application_create_success_description">Your application is being processed! You will receive a notification after processing the application.</string>
+    <string name="order_details">Order details</string>
+    <string name="order_number_is">Order number is %s</string>
+    <string name="delivery_details">Delivery details</string>
+    <string name="execution_time">Execution time: %s</string>
+    <string name="cost">Cost: %s</string>
+    <string name="shipping_address">Shipping address</string>
+    <string name="order_is">Order:</string>
+    <string name="center_is">Center: %s</string>
+    <string name="delivery">Delivery:</string>
+    <string name="total_price">Total price:</string>
+    <string name="no_order_history">No Order History</string>
+    <string name="no_reviews">No Reviews</string>
+    <string name="logout">Logout</string>
+    <string name="not_selected_yet">Not selected yet</string>
+    <string name="confirm_receipt">Confirm receipt</string>
+    <string name="show_qr">Show QR..</string>
+    <string name="quality">Quality</string>
+    <string name="leave_a_comment">Leave a comment</string>
+    <string name="rate">Rate</string>
+    <string name="select_city">Select city</string>
+    <string name="enter_address">Enter your address, flat number</string>
+    <string name="payment_method_is">Payment method:</string>
+    <string name="try_again">Try again</string>
+    <string name="enter_full_number">Enter the full number</string>
+    <string name="enter_kz_number">Enter Kazakhstan phone number</string>
+    <string name="whatsapp_is" translatable="false">Whatsapp: %s</string>
+    <string name="set_address">Set address</string>
+    <string name="go_main">To the main page</string>
+
+    <string name="all">All</string>
+    <string name="executed">Executed</string>
+    <string name="to_be_paid">To be paid</string>
+    <string name="in_processing">To be paid</string>
+    <string name="cancelled">Cancelled</string>
+
+    <string name="delivering">Delivering</string>
+    <string name="description">Description</string>
+    <string name="shared_yes">Yes</string>
+    <string name="shared_no">No</string>
+    <string name="exit_text">Do you really want to log out?</string>
+
+    <string name="info">Info</string>
+    <string name="reviews">Reviews</string>
+    <string name="error_sms_timeout">SMS confirmation waiting time has expired</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_app_not_authorized">The app is not authorized to use Firebase Authentication</string>
+    <string name="error_sms_exhausted">The Sms limit for the project has been exhausted. Try again later</string>
+    <string name="error_no_google_services">Api is called on a device the does not have Google Play Services</string>
+    <string name="error_unknown">Unknown error!</string>
+
+    <string name="sms_time_remaining">%d seconds left</string>
+
+</resources>

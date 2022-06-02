@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="hitprint-demo.app" target="11" />
+      <module name="hitprint-demo.buildSrc" target="11" />
+      <module name="hitprint-demo.components" target="11" />
+      <module name="hitprint-demo.home.main" target="11" />
+      <module name="hitprint-demo.home.payment" target="11" />
+      <module name="hitprint-demo.home.services" target="11" />
+      <module name="hitprint-demo.home.ui-delivery-address" target="11" />
+      <module name="hitprint-demo.home.ui-order-create-success" target="11" />
+      <module name="hitprint-demo.home.ui-order-details" target="11" />
+      <module name="hitprint-demo.home.ui-order-history" target="11" />
+      <module name="hitprint-demo.home.ui-packages" target="11" />
+      <module name="hitprint-demo.home.ui-rating" target="11" />
+      <module name="hitprint-demo.home.ui-upload-documents" target="11" />
+      <module name="hitprint-demo.home.ui-user-info" target="11" />
+      <module name="hitprint-demo.login.ui-login" target="11" />
+      <module name="hitprint-demo.login.ui-otp" target="11" />
+      <module name="hitprint-demo.navigation" target="11" />
+      <module name="hitprint-demo.utils" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,54 @@
+ CREATE TABLE  order_Entity(
+     id INTEGER NOT NULL PRIMARY KEY,
+     number TEXT NOT NULL,
+     stage TEXT NOT NULL,
+     startDate TEXT NOT NULL,
+     price REAL DEFAULT NULL,
+     executionTime TEXT DEFAULT NULL,
+     customerPhone TEXT NOT NULL,
+     deliveryAddress TEXT DEFAULT NULL,
+     city TEXT DEFAULT NULL,
+     paymentMethod TEXT DEFAULT NULL,
+     businessId INTEGER NOT NULL,
+     businessPhone TEXT NOT NULL,
+     businessName TEXT NOT NULL,
+     businessAddress TEXT NOT NULL,
+     kaspiQrUrl TEXT DEFAULT NULL
+ );
+
+ selectAllOrders:
+ SELECT *
+ FROM order_Entity;
+
+ insertOrder:
+ INSERT OR REPLACE
+ INTO order_Entity (
+    id,
+    number,
+    stage,
+    startDate,
+    price,
+    executionTime,
+    customerPhone,
+    deliveryAddress,
+    city,
+    paymentMethod,
+    businessId,
+    businessPhone,
+    businessName,
+    businessAddress,
+    kaspiQrUrl
+ ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);
+
+
+ getOrder:
+ SELECT * FROM order_Entity
+ WHERE id = :id;
+
+ getOrderByNumber:
+ SELECT * FROM order_Entity
+ WHERE number = :number;
+
+ removeHero:
+ DELETE FROM order_Entity
+ WHERE id = :id;

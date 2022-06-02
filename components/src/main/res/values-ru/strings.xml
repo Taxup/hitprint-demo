@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention">Внимание!</string>
+
+    <string name="login">Логин</string>
+    <string name="otp">Введите код пароль</string>
+    <string name="map">Карта</string>
+    <string name="history">История</string>
+    <string name="services">Сервисы</string>
+    <string name="upload_docs">Загрузка файлов</string>
+    <string name="packages">Пакеты</string>
+    <string name="payment">Платеж</string>
+    <string name="waiting">Ожидание</string>
+    <string name="order_details">Детали заказа</string>
+
+    <string name="welcome">Добро пожаловать в HitPrint!</string>
+    <string name="enter_phone_number">Пожалуйста, введите свой номер телефона, чтобы продолжить</string>
+    <string name="enter_otp">Отлично! Пожалуйста, введите pin-код из ваших сообщений, чтобы продолжить</string>
+
+    <string name="select_package">Выбрать Пакет</string>
+
+    <string name="shared_select_something">Выбрать %s</string>
+    <string name="shared_select">Выбрать</string>
+    <string name="shared_search">Поиск</string>
+    <string name="shared_next">Далее</string>
+
+    <string name="work_time">Рабочее время</string>
+    <string name="website">Веб сайт</string>
+    <string name="address">Адрес</string>
+    <string name="delivery_address">Адрес доставки</string>
+    <string name="city">Город</string>
+
+    <string name="upload_files">Загрузить Файлы</string>
+
+    <string name="order_number_is">Номер заказа %s</string>
+    <string name="delivery_details">Детали доставки</string>
+
+    <string name="execution_time">Время выполнения: %s</string>
+    <string name="cost">Стоимость: %s</string>
+    <string name="shipping_address">Адрес доставки</string>
+    <string name="order_is">Заказ:</string>
+    <string name="center_is">Центр: %s</string>
+    <string name="delivery">Доставка:</string>
+    <string name="total_price">Итоговая цена:</string>
+    <string name="no_order_history">Нет Истории Заказов</string>
+    <string name="no_reviews">Нет Отзывов</string>
+    <string name="logout">Выход</string>
+    <string name="not_selected_yet">Еще не выбран</string>
+    <string name="confirm_receipt">Подтвердить получение</string>
+    <string name="show_qr">Показать QR-код..</string>
+    <string name="quality">Качество</string>
+    <string name="leave_a_comment">Оставить комментарий</string>
+    <string name="rate">Оценить</string>
+    <string name="select_city">Выберите город</string>
+    <string name="enter_address">Введите свой адрес, номер квартиры</string>
+    <string name="payment_method_is">Способ оплаты:</string>
+    <string name="try_again">Пробовать снова</string>
+
+    <string name="enter_full_number">Введите полный номер</string>
+    <string name="enter_kz_number">Введите номер телефона в Казахстане</string>
+    <string name="set_address">Установить адрес</string>
+    <string name="application_create_success_description">Ваша заявка обрабатывается! Вы получите уведомление после обработки заявки.</string>
+    <string name="application_create_success_title">Заявка успешно создана!</string>
+    <string name="go_main">На главную</string>
+    <string name="executed">Исполнено</string>
+    <string name="to_be_paid">К оплате</string>
+    <string name="in_processing">В обработке</string>
+    <string name="cancelled">Отменено</string>
+    <string name="delivering">Доставляется</string>
+    <string name="description">Описание</string>
+    <string name="shared_yes">Да</string>
+    <string name="shared_no">Нет</string>
+    <string name="exit_text">Вы действительно хотите выйти из системы?</string>
+    <string name="all">Все</string>
+    <string name="info">Инфо</string>
+    <string name="reviews">Обзоры</string>
+    <string name="error_sms_timeout">Время ожидания подтверждения SMS истекло</string>
+    <string name="error_invalid_phone">Неверный номер телефона</string>
+    <string name="error_app_not_authorized">Приложению не разрешено использовать проверку подлинности Firebase</string>
+    <string name="error_sms_exhausted">Лимит Sms для проекта исчерпан. Повторите попытку позже</string>
+    <string name="error_no_google_services">Api вызывается на устройстве, на котором нет сервисов Google Play</string>
+    <string name="error_unknown">Неизвестная ошибка!</string>
+    <string name="sms_time_remaining">Осталось %d секунд</string>
+</resources>

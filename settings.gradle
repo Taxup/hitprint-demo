@@ -1,0 +1,33 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "hitprint-demo"
+include ':app'
+include ':core'
+include ':login'
+include ':login:ui-login'
+include ':login:ui-otp'
+include ':components'
+include ':home'
+include ':home:main'
+include ':home:payment'
+include ':home:hitprint-domain'
+include ':home:services'
+include ':home:ui-upload-documents'
+include ':home:ui-packages'
+include ':home:hitprint-interactors'
+include ':home:hitprint-datasource'
+include ':navigation'
+include ':utils'
+include ':home:ui-order-create-success'
+include ':home:ui-order-history'
+include ':home:ui-rating'
+include ':home:ui-order-details'
+include ':home:ui-delivery-address'
+include ':login:firebase-auth'
+include ':home:ui-user-info'
